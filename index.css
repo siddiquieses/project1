@@ -1,0 +1,337 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Merriweather, serif;
+}
+.all-content{
+  background-color:#f7f5f2;
+}
+html ::-webkit-scrollbar-track{
+
+  background-color: transparent;
+}
+html ::-webkit-scrollbar-thumb{
+  background-color:white;
+  border-radius: 10px;
+}
+html ::-webkit-scrollbar{
+  width: 10px;
+}
+#navbar{
+  background-color: #b2744c;
+}
+#logo img{
+  border-radius: 10px;
+  width: 160px;
+  margin-left: 20px;
+  height: 50px;
+}
+.navbar-nav{
+  margin-left: 50px;
+}
+.nav-item .nav-link{
+  color: black;
+  margin-left: 10px;
+  font-weight: bold;
+  transition: 0.5s;
+}
+.nav-item .nav-link:hover{
+  background: #f7f5f2;
+  border-radius: 5px;
+  color: black;
+}
+#navbar form button{
+  background: black;
+  color: white;
+  border: 1px solid;
+}
+#home{
+  width: 100%;
+  height: 90vh;
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(imgaes/home\ wallpaper.png);
+  background-repeat: no-repeat;
+  background-size:cover ;
+  background-position: 88%;
+} 
+#home .content{
+  padding-top: 210px;
+  margin-left: 56px;
+}
+#home .content h3{
+  font-size: 50px;
+  color: white;
+}
+#home .content p{
+  margin-top: 10px;
+  color: white;
+  font-size: 40px;
+  color: #b2744c;
+}
+#btn{
+  width: 150px;
+  height: 36px;
+  margin-top: 20px;
+  background: white;
+  
+  font-weight: bold;
+  border: none;
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+#btn:hover{
+  background: #b2744c;
+  color: white;
+}
+#name{
+  color: white;
+}
+.placeholder{
+  
+  border-radius: 50px;
+  text-align: center;
+  background-color: bisque;
+  border-style: none;
+}
+.placeholder:hover{
+  background-color:white;
+}
+footer{
+  height: 150px;
+  text-align: center;
+  color: #f7f5f2;
+  padding-top: 30px;
+}
+.text{
+  color:black;
+}
+.slide1{
+  margin-right: 300px;
+  width: 1400px;
+  height:1000px;
+  
+}
+.slide2{
+  height:1000px;
+  width: 1500px;
+}
+.slide3{
+  height:1000px;
+  width: 1500px;
+}
+/* sahiba */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Merriweather, serif;
+}
+.all-content{
+  background-color: white;
+}
+html ::-webkit-scrollbar-track{
+
+  background-color: transparent;
+}
+html ::-webkit-scrollbar-thumb{
+  background-color: #b2744c;
+  border-radius: 10px;
+}
+html ::-webkit-scrollbar{
+  width: 10px;
+}
+#navbar{
+  background-color: #b2744c;
+}
+#logo img{
+  border-radius: 10px;
+  width: 160px;
+  margin-left: 20px;
+  height: 50px;
+}
+.navbar-nav{
+  margin-left: 50px;
+}
+.nav-item .nav-link{
+  color: white;
+  margin-left: 10px;
+  font-weight: bold;
+  transition: 0.5s;
+}
+.nav-item .nav-link:hover{
+  background: #f7f5f2;
+  border-radius: 5px;
+  color: black;
+}
+#navbar form button{
+  background: black;
+  color: white;
+  border: 1px solid;
+}
+
+*{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+  
+
+
+#product{
+   width: 150px;
+   background-color: white;
+   
+}
+.heading4{
+   text-align:center;
+   color: #b27446;
+   font-size: 30px;
+   font-weight: bold;
+   padding-top: 30px;
+   border-bottom: 2px solid #b27446;
+ 
+   .all-content{
+      background-color: white;
+   }
+
+}
+#container{
+  margin-top: 150px;
+  border-radius: 15px;
+  background-color: #b27446;
+}
+
+#product-h4{
+  text-align: center;
+  color: #b27446;
+  font-size: 23px;
+
+}
+#product p{
+  color: #b27446;
+  padding-top: 10px;
+
+}
+#product p span{
+float: right;
+ cursor: pointer;
+}
+
+.card body{
+  border-radius: 15px;
+}
+
+.footer{
+  height: 150px;
+  text-align: center;
+  color: #f7f5f2;
+  padding-top: 30px;
+}
+/* mahnoorshiekh */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+.all-content{
+  background-color:white;
+}
+html ::-webkit-scrollbar-track{
+
+  background-color: transparent;
+}
+html ::-webkit-scrollbar-thumb{
+  background-color: #b2744c;
+  border-radius: 10px;
+}
+html ::-webkit-scrollbar{
+  width: 10px;
+}
+#navbar{
+  background-color: #b2744c;
+}
+#logo img{
+  border-radius: 10px;
+  width: 160px;
+  margin-left: 20px;
+  height: 50px;
+}
+.navbar-nav{
+  margin-left: 50px;
+}
+.nav-item .nav-link{
+  color: black;
+  margin-left: 10px;
+  font-weight: bold;
+  transition: 0.5s;
+}
+.nav-item .nav-link:hover{
+  background: #f7f5f2;
+  
+  color: black;
+}
+#navbar form button{
+  background: black;
+  color: white;
+  
+}
+.menu-heading {
+  font-size: 3.5rem; 
+  color: #b27446; 
+  text-align: center; 
+  margin-bottom: 20px; 
+  font-weight: bold; 
+  text-transform: uppercase; 
+  letter-spacing: 1px; 
+}
+
+.underline {
+  width: 50%;
+  height: 2px;
+  background-color: white;
+  margin: 0 auto 20px auto; 
+}
+
+.card {
+  border-radius: 10px;
+  transition: transform 0.2s, box-shadow 0.2s;
+  height: 100%; 
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px white(0, 0, 0, 0.3);
+}
+
+.card-img-top {
+  border-radius: 10px 10px 0 0;
+  box-shadow: #f4f4f4(10px);
+  width: 100%;
+  height: 190px; 
+  object-fit: cover; 
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; 
+  height: 100%; 
+}
+
+.text-coffee {
+  color: #6f4c3e;
+}
+
+.btn-coffee {
+  background-color: #b27446; 
+  color: white;
+  transition: background-color 0.3s;
+}
+
+.btn-coffee:hover {
+  background-color: #7c5948; 
+  color: white;
+}
+
+
